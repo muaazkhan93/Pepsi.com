@@ -1,0 +1,317 @@
+body {
+    margin: 0 auto;
+}
+
+.my-nav {
+    background-color: #0065c3 !important;
+    height: auto;
+    padding: 20px;
+
+}
+
+.container-fluid>img {
+    width: 60px !important;
+    margin-left: 2%;
+}
+
+.menu-1 ul {
+    color: white;
+    margin-left: 5%;
+}
+
+.menu-1 ul li a {
+    color: white;
+    padding: 12px !important;
+}
+
+.menu-1 ul li a:hover {
+    color: white;
+}
+
+.my-btn-1 {
+    padding: 8px 25px;
+    background-color: #0065c3;
+    border-radius: 30px;
+    color: white;
+    border-color: white;
+}
+
+.my-btn-1:hover {
+    background-color: white;
+    color: #0147D5;
+}
+
+.togg {
+    color: white !important;
+    background-color: white !important;
+}
+
+.section-1>img {
+
+    width: 100%;
+    height: auto;
+}
+
+.section-2 {
+    background-image: url(images/Desktop_Background.png);
+}
+
+.sec-2-1 {
+    width: 50%;
+    float: left;
+}
+
+.sec-2-1>img {
+    width: 50%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.sec-2-2 {
+    width: 50%;
+    float: right;
+}
+
+.sec-2-2>img {
+    width: 50%;
+    margin-top: 25%;
+    margin-left: 5%;
+}
+
+.sec-2-2>h2 {
+    color: white;
+    font-size: 25px;
+    margin-left: 7%;
+}
+
+.clear {
+    clear: both;
+}
+
+.my-btn-2 {
+    padding: 8px 25px;
+    background-color: #0065c3;
+    border-radius: 30px;
+    color: white;
+    border-color: white;
+    margin-left: 20%;
+}
+
+.section-3 {
+    background-color: #0065c3;
+}
+
+.sec-3-1 {
+    width: 30%;
+    float: left;
+    margin: 5%;
+}
+
+.sec-3-1>figcaption {
+    background-color: #1437BF;
+    text-align: center;
+    width: 430px;
+    padding: 10px;
+    color: white;
+}
+
+.sec-3-2 {
+    width: 50%;
+    float: right;
+    margin-right: 10%;
+}
+
+.sec-3-2>img {
+    width: 120%;
+    height: 700px;
+}
+
+.section-4 {
+    background-color: #014694;
+}
+
+.sec-4-1 {
+    width: 30%;
+    float: left;
+}
+
+.sec-4-1>img {
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.sec-4-2 {
+    width: 60%;
+    float: right;
+}
+
+.sec-4-2>img {
+    width: 100%;
+    margin-right: 40%;
+}
+
+.section-5>video {
+    width: 100% !important;
+}
+
+.section-6 {
+    background-color: #004ca7;
+}
+
+.sec-6-1 {
+    width: 50%;
+    float: left;
+}
+
+.sec-6-1>img {
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 100%;
+}
+
+.sec-6-2 {
+    width: 50%;
+    float: right;
+}
+
+.sec-6-2>img {
+    margin-top: 20%;
+    margin-left: 10%;
+    width: 80%;
+}
+
+.section-7 {
+    background-image: url(images/04_Generation_BG_D_2.png);
+
+}
+
+.sec-7-1 {
+    width: 50%;
+    float: left;
+}
+
+.sec-7-1>h1 {
+    color: white;
+    font-weight: bolder;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
+.sec-7-1>p {
+    color: white;
+    font-weight: bolder;
+    margin-left: 15%;
+}
+
+.my-btn-7 {
+    padding: 8px 25px;
+    background-color: #0065c3;
+    border-radius: 30px;
+    color: white;
+    border-color: white;
+    margin-left: 15%;
+}
+
+.my-btn-7:hover {
+    background-color: white;
+    color: #0065c3;
+}
+
+.sec-7-2 {
+    width: 50%;
+    float: right;
+}
+
+.sec-7-2>img {
+    width: 80%;
+    margin-top: 10%;
+}
+
+.section-8 {
+    background-color: #0065C3;
+}
+
+.foot-1 {
+    width: 18%;
+    float: left;
+}
+
+.foot-1 > img {
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+
+.foot-2 {
+    width: 18%;
+    float: left;
+}
+
+.foot-2 > h6 {
+    color: white;
+    margin-left: 10%;
+    margin-top: 35%;
+    font-weight: bolder;
+}
+
+.foot-3 {
+    width: 18%;
+    float: left;
+}
+
+.foot-3 > h6 {
+    color: white;
+    margin-left: 10%;
+    margin-top: 35%;
+    font-weight: bolder;
+
+}
+
+.foot-4 {
+    width: 18%;
+    float: left;
+}
+
+.foot-4 > h6 {
+    color: white;
+    margin-left: 10%;
+    margin-top: 35%;
+    font-weight: bolder;
+
+}
+
+.foot-5 {
+    width: 18%;
+    float: left;
+}
+
+.foot-5 > button {
+    color: white;
+    margin-left: 10%;
+    margin-top: 35%;
+}
+.my-btn-foot {
+
+    padding: 8px 10px;
+    background-color: #0065c3;
+    border-radius: 30px;
+    color: white;
+    border-color: white;
+    font-weight: bolder;
+
+}
+
+.my-btn-foot:hover {
+    background-color: white;
+    color: #0147D5;
+}
+.foot-5>i {
+    color: white;
+    padding: 1px;
+    margin-left: 10%;
+    margin-top: 10px;
+    font-weight: bolder;
+    font-size: x-large;
+}
